@@ -1,0 +1,184 @@
+[
+  {
+    "id": "heart-70",
+    "name": "Сердечко",
+    "category": "Сердечки",
+    "size_mm": {
+      "w": 70.0,
+      "h": 63.3
+    },
+    "thumbnail": "https://raw.githubusercontent.com/TimurZak-Zak/embroidery-catalog/main/thumbs/heart-70.png",
+    "file_url": "https://raw.githubusercontent.com/TimurZak-Zak/embroidery-catalog/main/designs/heart-70.vp3",
+    "license": "Public Domain",
+    "author": "Embroidery Studio"
+  },
+  {
+    "id": "heart-100",
+    "name": "Большое сердце",
+    "category": "Сердечки",
+    "size_mm": {
+      "w": 100.0,
+      "h": 90.4
+    },
+    "thumbnail": "https://raw.githubusercontent.com/TimurZak-Zak/embroidery-catalog/main/thumbs/heart-100.png",
+    "file_url": "https://raw.githubusercontent.com/TimurZak-Zak/embroidery-catalog/main/designs/heart-100.vp3",
+    "license": "Public Domain",
+    "author": "Embroidery Studio"
+  },
+  {
+    "id": "star5",
+    "name": "Звезда",
+    "category": "Звёзды",
+    "size_mm": {
+      "w": 70.0,
+      "h": 66.6
+    },
+    "thumbnail": "https://raw.githubusercontent.com/TimurZak-Zak/embroidery-catalog/main/thumbs/star5.png",
+    "file_url": "https://raw.githubusercontent.com/TimurZak-Zak/embroidery-catalog/main/designs/star5.vp3",
+    "license": "Public Domain",
+    "author": "Embroidery Studio"
+  },
+  {
+    "id": "star6",
+    "name": "Шестиконечная звезда",
+    "category": "Звёзды",
+    "size_mm": {
+      "w": 65.0,
+      "h": 75.0
+    },
+    "thumbnail": "https://raw.githubusercontent.com/TimurZak-Zak/embroidery-catalog/main/thumbs/star6.png",
+    "file_url": "https://raw.githubusercontent.com/TimurZak-Zak/embroidery-catalog/main/designs/star6.vp3",
+    "license": "Public Domain",
+    "author": "Embroidery Studio"
+  },
+  {
+    "id": "snowflake",
+    "name": "Снежинка",
+    "category": "Зима",
+    "size_mm": {
+      "w": 85.0,
+      "h": 73.6
+    },
+    "thumbnail": "https://raw.githubusercontent.com/TimurZak-Zak/embroidery-catalog/main/thumbs/snowflake.png",
+    "file_url": "https://raw.githubusercontent.com/TimurZak-Zak/embroidery-catalog/main/designs/snowflake.vp3",
+    "license": "Public Domain",
+    "author": "Embroidery Studio"
+  },
+  {
+    "id": "circle",
+    "name": "Круг",
+    "category": "Фигуры",
+    "size_mm": {
+      "w": 60.0,
+      "h": 60.0
+    },
+    "thumbnail": "https://raw.githubusercontent.com/TimurZak-Zak/embroidery-catalog/main/thumbs/circle.png",
+    "file_url": "https://raw.githubusercontent.com/TimurZak-Zak/embroidery-catalog/main/designs/circle.vp3",
+    "license": "Public Domain",
+    "author": "Embroidery Studio"
+  },
+  {
+    "id": "hexagon",
+    "name": "Шестиугольник",
+    "category": "Фигуры",
+    "size_mm": {
+      "w": 56.3,
+      "h": 65.0
+    },
+    "thumbnail": "https://raw.githubusercontent.com/TimurZak-Zak/embroidery-catalog/main/thumbs/hexagon.png",
+    "file_url": "https://raw.githubusercontent.com/TimurZak-Zak/embroidery-catalog/main/designs/hexagon.vp3",
+    "license": "Public Domain",
+    "author": "Embroidery Studio"
+  },
+  {
+    "id": "triangle",
+    "name": "Треугольник",
+    "category": "Фигуры",
+    "size_mm": {
+      "w": 65.0,
+      "h": 56.3
+    },
+    "thumbnail": "https://raw.githubusercontent.com/TimurZak-Zak/embroidery-catalog/main/thumbs/triangle.png",
+    "file_url": "https://raw.githubusercontent.com/TimurZak-Zak/embroidery-catalog/main/designs/triangle.vp3",
+    "license": "Public Domain",
+    "author": "Embroidery Studio"
+  },
+  {
+    "id": "rose4",
+    "name": "Розетка",
+    "category": "Цветы",
+    "size_mm": {
+      "w": 80.0,
+      "h": 80.0
+    },
+    "thumbnail": "https://raw.githubusercontent.com/TimurZak-Zak/embroidery-catalog/main/thumbs/rose4.png",
+    "file_url": "https://raw.githubusercontent.com/TimurZak-Zak/embroidery-catalog/main/designs/rose4.vp3",
+    "license": "Public Domain",
+    "author": "Embroidery Studio"
+  },
+  {
+    "id": "rose5",
+    "name": "Цветок",
+    "category": "Цветы",
+    "size_mm": {
+      "w": 76.3,
+      "h": 80.0
+    },
+    "thumbnail": "https://raw.githubusercontent.com/TimurZak-Zak/embroidery-catalog/main/thumbs/rose5.png",
+    "file_url": "https://raw.githubusercontent.com/TimurZak-Zak/embroidery-catalog/main/designs/rose5.vp3",
+    "license": "Public Domain",
+    "author": "Embroidery Studio"
+  },
+  {
+    "id": "flower8",
+    "name": "Ромашка",
+    "category": "Цветы",
+    "size_mm": {
+      "w": 90.0,
+      "h": 90.0
+    },
+    "thumbnail": "https://raw.githubusercontent.com/TimurZak-Zak/embroidery-catalog/main/thumbs/flower8.png",
+    "file_url": "https://raw.githubusercontent.com/TimurZak-Zak/embroidery-catalog/main/designs/flower8.vp3",
+    "license": "Public Domain",
+    "author": "Embroidery Studio"
+  },
+  {
+    "id": "spiral",
+    "name": "Спираль",
+    "category": "Узоры",
+    "size_mm": {
+      "w": 75.0,
+      "h": 70.0
+    },
+    "thumbnail": "https://raw.githubusercontent.com/TimurZak-Zak/embroidery-catalog/main/thumbs/spiral.png",
+    "file_url": "https://raw.githubusercontent.com/TimurZak-Zak/embroidery-catalog/main/designs/spiral.vp3",
+    "license": "Public Domain",
+    "author": "Embroidery Studio"
+  },
+  {
+    "id": "wave",
+    "name": "Волнистый бордюр",
+    "category": "Бордюры",
+    "size_mm": {
+      "w": 190.0,
+      "h": 28.0
+    },
+    "thumbnail": "https://raw.githubusercontent.com/TimurZak-Zak/embroidery-catalog/main/thumbs/wave.png",
+    "file_url": "https://raw.githubusercontent.com/TimurZak-Zak/embroidery-catalog/main/designs/wave.vp3",
+    "license": "Public Domain",
+    "author": "Embroidery Studio"
+  },
+  {
+    "id": "pentagon",
+    "name": "Пятиугольник",
+    "category": "Фигуры",
+    "size_mm": {
+      "w": 65.0,
+      "h": 61.8
+    },
+    "thumbnail": "https://raw.githubusercontent.com/TimurZak-Zak/embroidery-catalog/main/thumbs/pentagon.png",
+    "file_url": "https://raw.githubusercontent.com/TimurZak-Zak/embroidery-catalog/main/designs/pentagon.vp3",
+    "license": "Public Domain",
+    "author": "Embroidery Studio"
+  }
+]
