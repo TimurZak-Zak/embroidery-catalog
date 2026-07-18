@@ -180,5 +180,187 @@
     "file_url": "https://raw.githubusercontent.com/TimurZak-Zak/embroidery-catalog/main/designs/pentagon.vp3",
     "license": "Public Domain",
     "author": "Embroidery Studio"
+  },
+  {
+    "id": "abstract-floral-ornament",
+    "name": "Цветочный орнамент",
+    "category": "Цветы",
+    "size_mm": {
+      "w": 95.0,
+      "h": 93.2
+    },
+    "thumbnail": "https://raw.githubusercontent.com/TimurZak-Zak/embroidery-catalog/main/thumbs/abstract-floral-ornament.png",
+    "file_url": "https://raw.githubusercontent.com/TimurZak-Zak/embroidery-catalog/main/designs/abstract-floral-ornament.vp3",
+    "license": "Public domain",
+    "author": "AnonymousUnknown author",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Abstract_floral_ornament.svg"
+  },
+  {
+    "id": "acorn-square-ornament-purple",
+    "name": "Орнамент с жёлудем",
+    "category": "Узоры",
+    "size_mm": {
+      "w": 95.0,
+      "h": 95.0
+    },
+    "thumbnail": "https://raw.githubusercontent.com/TimurZak-Zak/embroidery-catalog/main/thumbs/acorn-square-ornament-purple.png",
+    "file_url": "https://raw.githubusercontent.com/TimurZak-Zak/embroidery-catalog/main/designs/acorn-square-ornament-purple.vp3",
+    "license": "CC0",
+    "author": "unknown: very old ornament",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/34/Acorn_Square_Ornament_Purple.svg"
+  },
+  {
+    "id": "art-nouveau-floral-ornament-by-e-m-lilien",
+    "name": "Цветочный модерн",
+    "category": "Цветы",
+    "size_mm": {
+      "w": 95.0,
+      "h": 75.3
+    },
+    "thumbnail": "https://raw.githubusercontent.com/TimurZak-Zak/embroidery-catalog/main/thumbs/art-nouveau-floral-ornament-by-e-m-lilien.png",
+    "file_url": "https://raw.githubusercontent.com/TimurZak-Zak/embroidery-catalog/main/designs/art-nouveau-floral-ornament-by-e-m-lilien.vp3",
+    "license": "Public domain",
+    "author": "Ephraim Moses Lilien",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/41/Art_Nouveau_floral_ornament_by_E._M._Lilien.svg"
+  },
+  {
+    "id": "everybody-s-floral-ornament",
+    "name": "Цветочный узор",
+    "category": "Цветы",
+    "size_mm": {
+      "w": 95.0,
+      "h": 92.5
+    },
+    "thumbnail": "https://raw.githubusercontent.com/TimurZak-Zak/embroidery-catalog/main/thumbs/everybody-s-floral-ornament.png",
+    "file_url": "https://raw.githubusercontent.com/TimurZak-Zak/embroidery-catalog/main/designs/everybody-s-floral-ornament.vp3",
+    "license": "Public domain",
+    "author": "AnonymousUnknown author",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Everybody%E2%80%99s_floral_ornament.svg"
+  },
+  {
+    "id": "flowerc-ornament-black",
+    "name": "Цветок",
+    "category": "Цветы",
+    "size_mm": {
+      "w": 95.0,
+      "h": 91.7
+    },
+    "thumbnail": "https://raw.githubusercontent.com/TimurZak-Zak/embroidery-catalog/main/thumbs/flowerc-ornament-black.png",
+    "file_url": "https://raw.githubusercontent.com/TimurZak-Zak/embroidery-catalog/main/designs/flowerc-ornament-black.vp3",
+    "license": "CC0",
+    "author": "unknown: antique floral ornament",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/ab/FlowerC_Ornament_Black.svg"
+  },
+  {
+    "id": "flower-ornament-coloured",
+    "name": "Ромашка",
+    "category": "Цветы",
+    "size_mm": {
+      "w": 95.0,
+      "h": 95.0
+    },
+    "thumbnail": "https://raw.githubusercontent.com/TimurZak-Zak/embroidery-catalog/main/thumbs/flower-ornament-coloured.png",
+    "file_url": "https://raw.githubusercontent.com/TimurZak-Zak/embroidery-catalog/main/designs/flower-ornament-coloured.vp3",
+    "license": "Public domain",
+    "author": "unknown: wide-spread illustrations ornament",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Flower_Ornament_Coloured.svg"
+  },
+  {
+    "id": "flower-in-pot-ornament-green",
+    "name": "Цветок в вазоне",
+    "category": "Цветы",
+    "size_mm": {
+      "w": 93.2,
+      "h": 95.0
+    },
+    "thumbnail": "https://raw.githubusercontent.com/TimurZak-Zak/embroidery-catalog/main/thumbs/flower-in-pot-ornament-green.png",
+    "file_url": "https://raw.githubusercontent.com/TimurZak-Zak/embroidery-catalog/main/designs/flower-in-pot-ornament-green.vp3",
+    "license": "CC0",
+    "author": "unknown: antique floral ornament",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flower_in_Pot_Ornament_Green.svg"
+  },
+  {
+    "id": "flower-in-ring-ornament-red",
+    "name": "Цветок в круге",
+    "category": "Цветы",
+    "size_mm": {
+      "w": 95.0,
+      "h": 95.0
+    },
+    "thumbnail": "https://raw.githubusercontent.com/TimurZak-Zak/embroidery-catalog/main/thumbs/flower-in-ring-ornament-red.png",
+    "file_url": "https://raw.githubusercontent.com/TimurZak-Zak/embroidery-catalog/main/designs/flower-in-ring-ornament-red.vp3",
+    "license": "CC0",
+    "author": "unknown: antique embroidery ornament",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Flower_in_Ring_Ornament_Red.svg"
+  },
+  {
+    "id": "flower-in-ring-ornament-red-r",
+    "name": "Цветок в круге 2",
+    "category": "Цветы",
+    "size_mm": {
+      "w": 95.0,
+      "h": 95.0
+    },
+    "thumbnail": "https://raw.githubusercontent.com/TimurZak-Zak/embroidery-catalog/main/thumbs/flower-in-ring-ornament-red-r.png",
+    "file_url": "https://raw.githubusercontent.com/TimurZak-Zak/embroidery-catalog/main/designs/flower-in-ring-ornament-red-r.vp3",
+    "license": "CC0",
+    "author": "unknown: antique embroidery ornament",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/58/Flower_in_Ring_Ornament_Red_R.svg"
+  },
+  {
+    "id": "secessionistische-zeitung-floral-ornament-1899",
+    "name": "Вертикальный узор",
+    "category": "Узоры",
+    "size_mm": {
+      "w": 45.0,
+      "h": 95.0
+    },
+    "thumbnail": "https://raw.githubusercontent.com/TimurZak-Zak/embroidery-catalog/main/thumbs/secessionistische-zeitung-floral-ornament-1899.png",
+    "file_url": "https://raw.githubusercontent.com/TimurZak-Zak/embroidery-catalog/main/designs/secessionistische-zeitung-floral-ornament-1899.vp3",
+    "license": "Public domain",
+    "author": "AnonymousUnknown author",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/af/Secessionistische_Zeitung_floral_ornament%2C_1899.svg"
+  },
+  {
+    "id": "crow-standing-with-red-key",
+    "name": "Ворон с ключом",
+    "category": "Птицы",
+    "size_mm": {
+      "w": 61.0,
+      "h": 95.0
+    },
+    "thumbnail": "https://raw.githubusercontent.com/TimurZak-Zak/embroidery-catalog/main/thumbs/crow-standing-with-red-key.png",
+    "file_url": "https://raw.githubusercontent.com/TimurZak-Zak/embroidery-catalog/main/designs/crow-standing-with-red-key.vp3",
+    "license": "CC0",
+    "author": "Unknown authorUnknown author",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Crow_standing_with_red_key.svg"
+  },
+  {
+    "id": "crow-standing-with-red-key-2",
+    "name": "Ворон с ключом 2",
+    "category": "Птицы",
+    "size_mm": {
+      "w": 95.0,
+      "h": 82.0
+    },
+    "thumbnail": "https://raw.githubusercontent.com/TimurZak-Zak/embroidery-catalog/main/thumbs/crow-standing-with-red-key-2.png",
+    "file_url": "https://raw.githubusercontent.com/TimurZak-Zak/embroidery-catalog/main/designs/crow-standing-with-red-key-2.vp3",
+    "license": "CC0",
+    "author": "Unknown authorUnknown author",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Crow_standing_with_red_key_2.svg"
+  },
+  {
+    "id": "hibiskus",
+    "name": "Гибискус",
+    "category": "Цветы",
+    "size_mm": {
+      "w": 90.8,
+      "h": 95.0
+    },
+    "thumbnail": "https://raw.githubusercontent.com/TimurZak-Zak/embroidery-catalog/main/thumbs/hibiskus.png",
+    "file_url": "https://raw.githubusercontent.com/TimurZak-Zak/embroidery-catalog/main/designs/hibiskus.vp3",
+    "license": "Public domain",
+    "author": "Biezl",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Hibiskus.svg"
   }
 ]
