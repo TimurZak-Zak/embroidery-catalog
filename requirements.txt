@@ -1,0 +1,4 @@
+requests
+pyembroidery
+Pillow
+svgelements
