@@ -1,5 +1,6 @@
 {
   "version": "0.3.0",
   "download_url": "https://github.com/TimurZak-Zak/embroidery-catalog/releases/download/app-mac-v1/EmbroideryStudio-mac.zip",
-  "notes": "Версия с авто-обновлением: дальше приложение обновляется само, без Терминала."
+  "sha256": "a3d62476cf01d9eaccd7622d81e1cda3427eba4cec3b2768278f028b1cc99876",
+  "notes": "Иконка «Мамин Узор», авто-обновление, новый дизайн, исправления безопасности."
 }
